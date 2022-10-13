@@ -10,13 +10,15 @@ This video outlines how to open your mysql shell to source the database, then on
 
 Video 2:
 Depicts all get routes: The first three gets show get all and the second 3 show get by id for each route
- [Untitled_ Oct 11, 2022 9_34 PM.webm](https://user-images.githubusercontent.com/108777796/195251082-879def26-512e-425f-9a2e-0ed538849c06.webm)
+[Untitled_ Oct 12 2022 9_29 PM.webm](https://user-images.githubusercontent.com/108777796/195501921-9fdd0cd0-1ec8-4156-81e4-7abf70313950.webm)
 
 Video 3: 
-This video shows all post, put and delete routes
+This video shows all post, put and delete routes:
+
+[Untitled_ Oct 12, 2022 9_36 PM.webm](https://user-images.githubusercontent.com/108777796/195502746-acd60c09-9679-4a2b-85de-84c4ec296188.webm)
 
 
- ## Installtion
+ ## Installation
     To install run npm init 
     npm install mysql2 sequelize dotenv
 
