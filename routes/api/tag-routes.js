@@ -70,6 +70,7 @@ router.put('/:id', (req, res) => {
       res.status(404).json({message: 'No such tag found'})
       return;
     }
+    res.json(dbTagData)
   })
   .catch(err => {
     console.log(err);
